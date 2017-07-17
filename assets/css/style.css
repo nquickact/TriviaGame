@@ -1,0 +1,18 @@
+.jumbotron{
+	color: #0b8bf8;
+	background-image: url(https://s3-us-west-2.amazonaws.com/assets.coderag.prd/wp-content/uploads/2017/06/409_CodeRag.jpg);
+}
+h1 {
+	font-size: 200px;
+}
+#counter {
+	font-size: 30px;
+	color: red;
+}
+.container {
+	color:tan;
+	background-image: url(https://s3-us-west-2.amazonaws.com/assets.coderag.prd/wp-content/uploads/2017/05/unspecified.jpeg);
+}
+.btn {
+	color: #0b8bf8;
+}
